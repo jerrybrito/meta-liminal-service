@@ -1,0 +1,2 @@
+# Requires: proto-waiting
+# (Not available on PyPI)
